@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+On Tech'n'Craft you will find posts about technical and crafty stuffs. But as of now we are trying to publish some Android applications on the Google Play which we have created for our usage. We are releasing those application to Google Play so that other users can also use the applications.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We always welcome the feedbacks. So, if you have any then please write to at <a href="mailto:contact@techncraft.com">contact[at]techncraft.com</a>. You can also use the feedback section of the Android apps to easily share your feedbacks.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In case you feel any tweak (small or large) can make this app better, then please write to us. We will try to encorporate the changes as soon as possible.
